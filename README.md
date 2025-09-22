@@ -1,4 +1,4 @@
-# Pong en Python (Tkinter)
+# Ping pong en Python (Tkinter)
 
 ¡Bienvenido al clásico juego de **Pong** desarrollado en Python usando **Tkinter**! 🏓
 
